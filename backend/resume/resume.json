@@ -1,0 +1,72 @@
+{
+  "basics": {
+    "summary": "Lokesh is a CS graduate student (4.0 GPA) with projects in LLM chatbots, FastAPI backends, and React frontends."
+  },
+  "skills": [
+    {
+      "name": "Languages",
+      "keywords": [
+        "Python",
+        "JavaScript",
+        "Java",
+        "SQL"
+      ]
+    },
+    {
+      "name": "Frameworks",
+      "keywords": [
+        "FastAPI",
+        "React",
+        "Vite",
+        "Tailwind"
+      ]
+    },
+    {
+      "name": "AI/LLM",
+      "keywords": [
+        "Groq",
+        "RAG",
+        "BM25",
+        "OpenAI-compatible APIs"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "AI Legislation Chatbot",
+      "description": "Guides executives through state AI bills.",
+      "highlights": [
+        "BERT similarity",
+        "topic modeling",
+        "role-based answers"
+      ]
+    },
+    {
+      "name": "Big E Sales Coach",
+      "description": "Voice-based sales role-play training app.",
+      "highlights": [
+        "STT/TTS",
+        "LLM flows",
+        "scoring rubric"
+      ]
+    }
+  ],
+  "work": [
+    {
+      "name": "EKU Labs",
+      "position": "Graduate Assistant",
+      "summary": "Built AI chat services and dashboards.",
+      "highlights": [
+        "FastAPI services",
+        "Firebase frontends"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Eastern Kentucky University",
+      "studyType": "MS",
+      "area": "Computer Science"
+    }
+  ]
+}
